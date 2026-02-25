@@ -5,7 +5,6 @@
 ### 💻 Desarrollador Full Stack | Creando Soluciones Web Completas
 
 [![GitHub followers](https://img.shields.io/github/followers/MrVanguardia?style=social)](https://github.com/MrVanguardia)
-
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Conectar-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/elvis-manuel-dominguez-mrvanguardia )
 
 </div>
