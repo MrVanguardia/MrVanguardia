@@ -1,33 +1,33 @@
 <div align="center">
   
-# 👋 ¡Hola! Soy Elvis Manuel
+# 👋 Hello! I'm Elvis Manuel
 
-### 💻 Desarrollador Full Stack | Creando Soluciones Web Completas
+### 💻 Full Stack Developer | Creating Complete Web Solutions
 
 [![GitHub followers](https://img.shields.io/github/followers/MrVanguardia?style=social)](https://github.com/MrVanguardia)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Conectar-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/elvis-manuel-dominguez-mrvanguardia )
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/elvis-manuel-dominguez-mrvanguardia )
 
 </div>
 
 ---
 
-## 🚀 Sobre Mí
+## 🚀 About Me
 
-Soy un desarrollador Full Stack apasionado por construir aplicaciones, aplicaciones web y web completas, desde el frontend hasta el backend. Me especializo en crear experiencias de usuario atractivas y sistemas robustos que escalan.
+I'm a Full Stack developer passionate about building applications, web apps, and complete websites, from frontend to backend. I specialize in creating engaging user experiences and robust systems that scale.
 
-- 🔭 Actualmente trabajando en proyectos Full Stack con React y Node.js
-- 🌱 Perfeccionando mis habilidades en arquitectura de software y mejores prácticas
-- 💡 Apasionado por el desarrollo web moderno, APIs RESTful y bases de datos
-- 🎯 Objetivo: Dominar tecnologías cloud y DevOps
-- ⚡ Dato curioso: analizar código con un café en mano es mi superpoder
+- 🔭 Currently working on Full Stack projects with React and Node.js
+- 🌱 Honing my skills in software architecture and best practices
+- 💡 Passionate about modern web development, RESTful APIs, and databases
+- 🎯 Goal: Master cloud technologies and DevOps
+- ⚡ Fun fact: analyzing code with a coffee in hand is my superpower
 
 ---
 
-##  Tecnologías y Herramientas
+## 🛠️ Technologies & Tools
 
 <div align="center">
 
-### Lenguajes de Programación
+### Programming Languages
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
@@ -50,14 +50,14 @@ Soy un desarrollador Full Stack apasionado por construir aplicaciones, aplicacio
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 
-### Bases de Datos
+### Databases
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 
-### Herramientas & DevOps
+### Tools & DevOps
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
@@ -71,12 +71,11 @@ Soy un desarrollador Full Stack apasionado por construir aplicaciones, aplicacio
 
 ---
 
-## 📫 Conecta Conmigo
+## 📫 Connect With Me
 
 <div align="left">
 
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:manuelsilverio319@gmail.com)
-
 
 </div>
 
@@ -84,13 +83,13 @@ Soy un desarrollador Full Stack apasionado por construir aplicaciones, aplicacio
 
 <div align="center">
   
-### 💭 Frase Favorita
+### 💭 Favorite Quote
 
-*"El código es como el humor. Cuando tienes que explicarlo, es malo." - Cory House*
+*"Code is like humor. When you have to explain it, it's bad." - Cory House*
 
 ---
 
-![Visitantes](https://visitor-badge.laobi.icu/badge?page_id=MrVanguardia.MrVanguardia)
+![Visitors](https://visitor-badge.laobi.icu/badge?page_id=MrVanguardia.MrVanguardia)
 
 ⭐️ From [MrVanguardia](https://github.com/MrVanguardia)
 
