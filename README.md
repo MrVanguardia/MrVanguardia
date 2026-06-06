@@ -96,4 +96,4 @@ I'm a Full Stack developer passionate about building applications, web apps, and
 
 ⭐️ From [MrVanguardia](https://github.com/MrVanguardia)
 
-</div>  vamos a ponerle el juegito del comecome a eso para que se vea mas animado verdad y algunas cositas mas que me hagan ver profesional
+</div>
