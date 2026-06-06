@@ -4,8 +4,29 @@
 
 ### 💻 Full Stack Developer | Creating Complete Web Solutions
 
+<!-- ANIMATED PAC-MAN SECTION -->
+<div style="background: #1d1f21; padding: 10px 20px; border-radius: 40px; margin: 15px auto; width: fit-content; box-shadow: 0 4px 10px rgba(0,0,0,0.3);">
+  <div style="font-family: monospace; font-size: 1.8rem; letter-spacing: 6px; color: #f5f5f5;">
+    <span style="display: inline-block; animation: pacmanEat 0.6s infinite;">ᗧ</span>
+    <span style="display: inline-block; animation: moveDots 1s linear infinite;">••••••••••••••••••</span>
+  </div>
+  <div style="font-size: 0.8rem; color: #f7df1e;">⬤ Pac-Man says: Chase your bugs! ⬤</div>
+</div>
+
+<style>
+  @keyframes pacmanEat {
+    0% { transform: scale(1); opacity: 1; text-shadow: 0 0 2px yellow; }
+    50% { transform: scale(1.2); opacity: 0.9; text-shadow: 0 0 8px orange; }
+    100% { transform: scale(1); opacity: 1; text-shadow: 0 0 2px yellow; }
+  }
+  @keyframes moveDots {
+    0% { transform: translateX(0); opacity: 1; }
+    100% { transform: translateX(-15px); opacity: 0.7; }
+  }
+</style>
+
 [![GitHub followers](https://img.shields.io/github/followers/MrVanguardia?style=social)](https://github.com/MrVanguardia)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/elvis-manuel-dominguez-mrvanguardia )
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/elvis-manuel-dominguez-mrvanguardia)
 
 </div>
 
@@ -68,6 +89,37 @@ I'm a Full Stack developer passionate about building applications, web apps, and
 ![Webpack](https://img.shields.io/badge/Webpack-8DD6F9?style=for-the-badge&logo=webpack&logoColor=black)
 
 </div>
+
+---
+
+## 📈 GitHub Analytics (Professional)
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MrVanguardia&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MrVanguardia&layout=compact&langs_count=7&theme=radical"/>
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MrVanguardia&theme=radical" alt="GitHub Streak" />
+</div>
+
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=MrVanguardia&theme=radical&row=2&column=3&margin-w=15&margin-h=15" alt="Trophies" />
+</div>
+
+---
+
+## 💼 Featured Projects (Showcase)
+
+| Project | Tech Stack | Description |
+|---------|------------|-------------|
+| 🚧 **E‑commerce API** | Node.js, Express, MongoDB | RESTful backend for online store with JWT auth & payments |
+| 🎨 **Portfolio 3D** | React, Three.js, Tailwind | Interactive 3D personal portfolio (coming soon) |
+| 📱 **TaskFlow** | Django, React, PostgreSQL | Full‑stack task manager with real‑time updates |
+
+> *More repositories available on my [GitHub](https://github.com/MrVanguardia)*
 
 ---
 
