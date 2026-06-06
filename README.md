@@ -7,6 +7,9 @@
 [![GitHub followers](https://img.shields.io/github/followers/MrVanguardia?style=social)](https://github.com/MrVanguardia)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/elvis-manuel-dominguez-mrvanguardia )
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=React+%2B+Node.js+Developer;REST+APIs+%7C+Databases+%7C+DevOps;Building+scalable+web+applications;Open+to+new+opportunities+%F0%9F%9A%80)](https://git.io/typing-svg)
+</div>
+
 </div>
 
 ---
