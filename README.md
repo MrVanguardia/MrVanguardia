@@ -4,12 +4,8 @@
 
 ### 💻 Full Stack Developer | Creating Complete Web Solutions
 
-<!-- PAC-MAN ANIMADO CON GIF (funciona siempre) -->
-<img src="https://i.giphy.com/media/3o7abB06u9bNzA8LC8/giphy.webp" width="120" alt="Pac-Man eating" style="margin: 10px auto; display: block; border-radius: 20px;">
-<br/>
-
 [![GitHub followers](https://img.shields.io/github/followers/MrVanguardia?style=social)](https://github.com/MrVanguardia)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/elvis-manuel-dominguez-mrvanguardia)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/elvis-manuel-dominguez-mrvanguardia )
 
 </div>
 
@@ -73,8 +69,6 @@ I'm a Full Stack developer passionate about building applications, web apps, and
 
 </div>
 
----
-
 ## 📈 GitHub Analytics
 
 <div align="center">
@@ -86,26 +80,6 @@ I'm a Full Stack developer passionate about building applications, web apps, and
 
 ---
 
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=MrVanguardia&theme=radical&row=2&column=3&margin-w=15&margin-h=15" alt="Trophies" />
-</div>
-
----
-
-## 💼 Featured Projects (Examples)
-
-| Project | Tech Stack | Description |
-|---------|------------|-------------|
-| 🚧 **E‑commerce API** | Node.js, Express, MongoDB | RESTful backend for online store with JWT auth & payments |
-| 🎨 **Portfolio 3D** | React, Three.js, Tailwind | Interactive 3D personal portfolio (coming soon) |
-| 📱 **TaskFlow** | Django, React, PostgreSQL | Full‑stack task manager with real‑time updates |
-
-> *More repositories available on my [GitHub](https://github.com/MrVanguardia)*
-
----
-
 ## 📫 Connect With Me
 
 <div align="left">
@@ -113,6 +87,7 @@ I'm a Full Stack developer passionate about building applications, web apps, and
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:manuelsilverio319@gmail.com)
 
 </div>
+
 
 ---
 
