@@ -4,26 +4,9 @@
 
 ### 💻 Full Stack Developer | Creating Complete Web Solutions
 
-<!-- ANIMATED PAC-MAN SECTION -->
-<div style="background: #1d1f21; padding: 10px 20px; border-radius: 40px; margin: 15px auto; width: fit-content; box-shadow: 0 4px 10px rgba(0,0,0,0.3);">
-  <div style="font-family: monospace; font-size: 1.8rem; letter-spacing: 6px; color: #f5f5f5;">
-    <span style="display: inline-block; animation: pacmanEat 0.6s infinite;">ᗧ</span>
-    <span style="display: inline-block; animation: moveDots 1s linear infinite;">••••••••••••••••••</span>
-  </div>
-  <div style="font-size: 0.8rem; color: #f7df1e;">⬤ Pac-Man says: Chase your bugs! ⬤</div>
-</div>
-
-<style>
-  @keyframes pacmanEat {
-    0% { transform: scale(1); opacity: 1; text-shadow: 0 0 2px yellow; }
-    50% { transform: scale(1.2); opacity: 0.9; text-shadow: 0 0 8px orange; }
-    100% { transform: scale(1); opacity: 1; text-shadow: 0 0 2px yellow; }
-  }
-  @keyframes moveDots {
-    0% { transform: translateX(0); opacity: 1; }
-    100% { transform: translateX(-15px); opacity: 0.7; }
-  }
-</style>
+<!-- PAC-MAN ANIMADO CON GIF (funciona siempre) -->
+<img src="https://i.giphy.com/media/3o7abB06u9bNzA8LC8/giphy.webp" width="120" alt="Pac-Man eating" style="margin: 10px auto; display: block; border-radius: 20px;">
+<br/>
 
 [![GitHub followers](https://img.shields.io/github/followers/MrVanguardia?style=social)](https://github.com/MrVanguardia)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/elvis-manuel-dominguez-mrvanguardia)
@@ -92,7 +75,7 @@ I'm a Full Stack developer passionate about building applications, web apps, and
 
 ---
 
-## 📈 GitHub Analytics (Professional)
+## 📈 GitHub Analytics
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MrVanguardia&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
@@ -111,7 +94,7 @@ I'm a Full Stack developer passionate about building applications, web apps, and
 
 ---
 
-## 💼 Featured Projects (Showcase)
+## 💼 Featured Projects (Examples)
 
 | Project | Tech Stack | Description |
 |---------|------------|-------------|
