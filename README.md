@@ -72,6 +72,12 @@ I'm a Full Stack developer passionate about building applications, web apps, and
 
 </div>
 
+![Pac-Man contribution graph](./acrade-contributions.svg)
+ 
+_Generated with [abozanona/pacman-contribution-graph](https://github.com/abozanona/pacman-contribution-graph)_
+ 
+![divider](https://github.com/yusufyusie/yusufyusie/raw/main/line.gif)
+
 ---
 
 ## 📫 Connect With Me
