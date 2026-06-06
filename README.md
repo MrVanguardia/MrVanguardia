@@ -5,13 +5,6 @@
 ### 💻 Full Stack Developer | Creating Complete Web Solutions
  
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=React+%2B+Node.js+Developer;REST+APIs+%7C+Databases+%7C+DevOps;Building+scalable+web+applications;Open+to+new+opportunities+%F0%9F%9A%80)](https://git.io/typing-svg)
- 
-<br/>
-[![GitHub followers](https://img.shields.io/github/followers/MrVanguardia?style=social)](https://github.com/MrVanguardia)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin)](https://www.linkedin.com/in/elvis-manuel-dominguez-mrvanguardia)
-[![Email](https://img.shields.io/badge/Email-manuelsilverio319%40gmail.com-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:manuelsilverio319@gmail.com)
-[![Profile Views](https://komarev.com/ghpvc/?username=MrVanguardia&style=flat&color=58A6FF)](https://github.com/MrVanguardia)
- 
 </div>
 
 [![GitHub followers](https://img.shields.io/github/followers/MrVanguardia?style=social)](https://github.com/MrVanguardia)
